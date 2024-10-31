@@ -1,0 +1,5 @@
+C:\Users\Gebruiker\Documents\Coding Projects\Drinks info\drinks-info\obj\Debug\net8.0\drinks-info.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Coding Projects\Drinks info\drinks-info\obj\Debug\net8.0\drinks-info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Coding Projects\Drinks info\drinks-info\obj\Debug\net8.0\drinks-info.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Coding Projects\Drinks info\drinks-info\obj\Debug\net8.0\drinks-info.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Coding Projects\Drinks info\drinks-info\obj\Debug\net8.0\drinks-info.csproj.CoreCompileInputs.cache
